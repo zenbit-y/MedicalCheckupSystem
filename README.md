@@ -7,7 +7,7 @@
 - 界面框架：Java Swing
 - 数据库：MySQL
 - 持久层：原生 JDBC
-- 开发工具：IntelliJ IDEA、Navicat
+- 开发工具：IntelliJ IDEA、
 
 ## 已完成功能
 1. 用户登录验证
@@ -23,7 +23,7 @@
 4. 管理员/普通用户权限区分
 
 ## 运行说明
-1. 在 Navicat 执行项目对应 SQL，创建数据表
+1. 在 MySQL 执行项目对应 SQL，创建数据表
 2. 修改 `utils/DBUtil.java` 内的数据库账号、密码、地址
 3. IDEA 导入项目，运行登录窗口启动程序
 
